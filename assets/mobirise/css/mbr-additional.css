@@ -1828,6 +1828,31 @@ body {
 .cid-rzrlD7fSYY .card {
   padding-bottom: 1.5rem;
 }
+.cid-rzrRfHVowQ {
+  background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-rzrRfHVowQ .form-control,
+.cid-rzrRfHVowQ .form-control:focus {
+  background: #ffffff;
+  border: 1px solid #ffffff;
+}
+.cid-rzrRfHVowQ .form-container {
+  transition: all .2s;
+  border: 1px solid #ffffff;
+  padding: 1rem;
+}
+.cid-rzrRfHVowQ textarea.form-control {
+  min-height: 188px;
+}
+.cid-rzrRfHVowQ .input-group-btn {
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+@media (min-width: 768px) {
+  .cid-rzrRfHVowQ .content-container {
+    padding-right: 5rem;
+  }
+}
 .cid-rzrlmTFqqT {
   padding-top: 90px;
   padding-bottom: 90px;
