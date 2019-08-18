@@ -1862,29 +1862,76 @@ body {
 .cid-rzrlD7fSYY .card {
   padding-bottom: 1.5rem;
 }
-.cid-rzrRfHVowQ {
-  background-image: url("../../../assets/images/background4.jpg");
+.cid-rzvnRqJkje {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #232323;
 }
-.cid-rzrRfHVowQ .form-control,
-.cid-rzrRfHVowQ .form-control:focus {
-  background: #ffffff;
-  border: 1px solid #ffffff;
+.cid-rzvnRqJkje .title {
+  margin-bottom: 2rem;
 }
-.cid-rzrRfHVowQ .form-container {
-  transition: all .2s;
-  border: 1px solid #ffffff;
-  padding: 1rem;
+.cid-rzvnRqJkje .mbr-section-subtitle {
+  color: #767676;
 }
-.cid-rzrRfHVowQ textarea.form-control {
+.cid-rzvnRqJkje a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rzvnRqJkje a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-rzvnRqJkje textarea.form-control {
   min-height: 188px;
 }
-.cid-rzrRfHVowQ .input-group-btn {
-  justify-content: center;
-  -webkit-justify-content: center;
+.cid-rzvnRqJkje LABEL {
+  color: #ffffff;
 }
-@media (min-width: 768px) {
-  .cid-rzrRfHVowQ .content-container {
-    padding-right: 5rem;
+.cid-rzvnRqJkje H2 {
+  color: #ffffff;
+}
+.cid-rzvnNNDcOl {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rzvnNNDcOl .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rzvnNNDcOl .formoid {
+  margin: auto;
+}
+.cid-rzvnNNDcOl .form-control {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+.cid-rzvnNNDcOl .input-group-btn .btn {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  margin: 0 !important;
+}
+.cid-rzvnNNDcOl a:not([href]):not([tabindex]) {
+  color: #fff;
+}
+.cid-rzvnNNDcOl a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+@media (max-width: 768px) {
+  .cid-rzvnNNDcOl .mbr-form .row {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  .cid-rzvnNNDcOl .form-group,
+  .cid-rzvnNNDcOl .input-group-btn,
+  .cid-rzvnNNDcOl .input-group-btn .btn {
+    max-width: 300px;
+    width: 100%;
+  }
+}
+@media (min-width: 769px) {
+  .cid-rzvnNNDcOl .mbr-form .row > * {
+    padding: 0 0.5rem;
   }
 }
 .cid-rzrlmTFqqT {
